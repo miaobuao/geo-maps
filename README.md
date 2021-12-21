@@ -1,3 +1,3 @@
 # RESUME
 
-some geo data of earth.
+some geo data.
