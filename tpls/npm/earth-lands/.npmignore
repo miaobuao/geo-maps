@@ -1,6 +1,0 @@
-#npm
-.tgz
-.npmignore
-.npmrc
-package-lock.json
-npm-shrinkwrap.json
